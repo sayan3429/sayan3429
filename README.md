@@ -1,15 +1,50 @@
-<h1 align="center">Hi 👋, I'm Sayan Hazra</h1>
-<h3 align="center">A tech enthusiast and developer.</h3>
+# 👋 Hi there, I'm [Your Name]!
 
-- 🌱 I’m currently learning **Machine Learning, Java, Python, Automation**
+Welcome to my GitHub profile! Here you'll find my latest projects, contributions, and a bit about me.
 
-- 📫 How to reach me **sayanh1921@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sayan-hazra-212b41252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-hazra-212b41252" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sayan1921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayan1921" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🤖 I am eager to learn about machine learning and explore its real-world applications.
+- 🐍 I am quite proficient in Python, using it for data analysis and other tasks.
+- 🤖 I have hands-on experience with automation using UiPath, streamlining repetitive processes.
+- ☕ I also have knowledge of Java, which I use for object-oriented programming and DSA.
+
+---
+
+## 🛠️ Languages and Tools
+
+| Language/Tool      | Proficiency         |
+|--------------------|---------------------|
+| Python             | ⭐⭐⭐⭐             |
+| Java               | ⭐⭐⭐                |
+| UiPath             | ⭐⭐⭐⭐               |
+| Machine Learning   | 🌱 (Learning)       |
+
+---
+
+## 📈 GitHub Stats
+
+<!-- Optionally, you can add a GitHub stats card here using a service like GitHub Readme Stats -->
+
+---
+
+## 📂 Featured Projects
+
+- **Cloth Consultant**: Developed a automation which takes a city name as input from the user, goes to Google searches for the weather in that city
+and extracts temperature and weather from Google and suggests the users what to wear accordingly.
+- **LingaLens – Language Converter Web App**:Developed a language-conversion web application using Flask framework. Integrated user authentication and stored user
+data in MongoDB Atlas. Used multiple LLM models and an OCR model to handle text input from direct typing, image files,
+and PDFs.
+
+
+---
+
+## 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/sayan-hazra-212b41252)
+
+---
+
+Thanks for visiting my profile! Feel free to check out my repositories and reach out if you want to collaborate.
