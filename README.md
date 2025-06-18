@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Sayan Hazra!
 
 Welcome to my GitHub profile! Here you'll find my latest projects, contributions, and a bit about me.
 
