@@ -24,11 +24,7 @@ Welcome to my GitHub profile! Here you'll find my latest projects, contributions
 
 ---
 
-## 📈 GitHub Stats
 
-<!-- Optionally, you can add a GitHub stats card here using a service like GitHub Readme Stats -->
-
----
 
 ## 📂 Featured Projects
 
