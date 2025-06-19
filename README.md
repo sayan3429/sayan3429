@@ -6,21 +6,17 @@ Welcome to my GitHub profile! Here you'll find my latest projects, contributions
 
 ## 🚀 About Me
 
-- 🤖 I am eager to learn about machine learning and explore its real-world applications.
-- 🐍 I am quite proficient in Python, using it for data analysis and other tasks.
-- 🤖 I have hands-on experience with automation using UiPath, streamlining repetitive processes.
-- ☕ I also have knowledge of Java, which I use for object-oriented programming and DSA.
+Hello! 👋 I’m a passionate programmer with strong skills in Python, Java, and UiPath. My journey in technology centers on building efficient solutions through coding and automation, and I’m deeply interested in the transformative power of machine learning.
+
+On my GitHub, you’ll find projects that blend software development, robotic process automation, and data-driven insights. I enjoy tackling real-world problems, learning new frameworks, and collaborating with others to create impactful tools and applications.
 
 ---
 
 ## 🛠️ Languages and Tools
 
-| Language/Tool      | Proficiency         |
-|--------------------|---------------------|
-| Python             | ⭐⭐⭐⭐             |
-| Java               | ⭐⭐⭐                |
-| UiPath             | ⭐⭐⭐⭐               |
-| Machine Learning   | 🌱 (Learning)       |
+**Languages**: Java, Python, MySQL, R , VBscript
+**Technologies**: Machine Learning, Robotic Process Automation
+**Dev Tools**: Git, Visual Studio Code, IntelliJ, Uipath Studio
 
 ---
 
